@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="ros_state_machine" type="ros_state_machine_node" name="ros_state_machine_node" output="screen"/>
+
+</launch>
